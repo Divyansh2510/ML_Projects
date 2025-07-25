@@ -1,0 +1,3 @@
+About
+Here in these project we will be predicting the gold prices. 
+For these purpose we will be using the Random Forest Regressor dataset.
