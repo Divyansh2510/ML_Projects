@@ -1,0 +1,3 @@
+About
+These is a supervised ML project which will predict on the loan data that whether the particular person would be able to clear his loan or not . 
+It is classification related project and we gonna use Support Vector Machine
