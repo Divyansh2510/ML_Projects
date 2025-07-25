@@ -1,0 +1,6 @@
+About
+In these ML project I have used Logistic Regression model which predicts whether the News is real or fake.
+Also here i have used data normalizing techniques like stemming , vectorization and more .
+
+
+Note : I have used dataset from kaggle . 
