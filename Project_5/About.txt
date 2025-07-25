@@ -1,0 +1,3 @@
+About
+Here we will be going to predict the quality of wine on a wine dataset. 
+For that purpose we will be using the Random Forest Classifier model .
