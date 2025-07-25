@@ -1,0 +1,5 @@
+About
+Here we will be using credit card dataset and will be predicting whether the transaction is legal or fraud. 
+We will be using Logistic Regression
+
+Note : I have used the dataset from Kaggle ,  but can't push it here as i was large. One can find similar datasets there.
