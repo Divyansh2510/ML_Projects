@@ -1,0 +1,2 @@
+About
+Here in these project we will be using the california housing data from sklearn library and will be predicting the house prices .
