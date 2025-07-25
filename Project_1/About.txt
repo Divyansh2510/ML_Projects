@@ -1,1 +1,2 @@
 Here we will be predicting whether the Sonar data is telling us about the Rock OR Mines. We will be using various python libraries for that purpose.
+s

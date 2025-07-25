@@ -1,0 +1,1 @@
+Here we will be predicting the medical insurance price. We will be using Linear Regression model for that purpose.
